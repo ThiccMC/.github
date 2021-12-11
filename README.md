@@ -1,0 +1,2 @@
+# .github
+Nice feature GitHub!
