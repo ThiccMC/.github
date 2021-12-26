@@ -2,4 +2,4 @@
 
 Thicc SMP, but they make open source software.
 
-Featured projects: [**AlynaaMC**](https://github.com/ThiccMC/AlynaaMC) and [**AlynaaStatus**](https://github.com/ThiccMC/AlynaaStatus)
+Featured projects: [**AlynaaMC**](https://github.com/ThiccMC/AlynaaMC), [**ThiccPurplane**](https://github.com/ThiccMC/ThiccPurplane) and  [**AlynaaStatus**](https://github.com/ThiccMC/AlynaaStatus)
