@@ -1,3 +1,4 @@
 # ThiccMC
 
-Thicc SMP, but they make open source software.
+Formerly known as Thicc SMP. Now a network with multiple fancy gamemodes.
+[**Discord**](https://discord.gg/thiccmc)
