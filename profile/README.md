@@ -1,5 +1,8 @@
 # ThiccMC
+![image](https://github.com/ThiccMC/.github/assets/73286927/04b755fa-f6ef-4701-a44a-0f19e3970fd4)
+***
+A hobbyist project as a Minecraft network.
 
-Formerly known as Thicc SMP. Now a network with multiple fancy gamemodes.
+This GitHub organization hosts our open-source and private projects and incorporates tech nerds who also play Minecraft.
 
-[**Discord**](https://qtpc.tech/discord)
+Thanks for passing by!
