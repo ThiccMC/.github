@@ -7,4 +7,4 @@ This GitHub organization hosts our open-source and private projects and incorpor
 
 Thanks for passing by!
 
-[**Discord**](https://thiccmc.com/discord) | [**Facebook**](https://facebook.com)
+[**Discord**](https://thiccmc.com/discord) | [**Facebook**](https://facebook.com/thiccmc)
